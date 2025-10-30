@@ -6,7 +6,10 @@ remotos com GitHub.
 
 Além disso, vamos trabalhar com GitFlow e VSCode.
 
-Confira!
+Confira tudo o que temos no nosso youtube!
+segue o link:
+www.youtube.com/tmw
+
 
 
 
